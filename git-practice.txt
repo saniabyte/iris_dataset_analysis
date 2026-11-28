@@ -1,0 +1,13 @@
+Git and GitHub Practical Assignment
+
+Name: Sania Qazi
+
+Practical Tasks:
+1. Git Installation
+2. Git Configuration
+3. Git Clone
+4. Git Add
+5. Git Commit
+6. Git Push
+7. Git Branching
+8. Git Merging
